@@ -1,2 +1,2 @@
-# MZ-TECHNOLOGIES
-website mztechnologies
+# MZ Technologies
+website MZ Technologies
